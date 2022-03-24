@@ -4,7 +4,7 @@
 
 #### _A Portfolio of projects I've worked on and a bit about me_
 
-[Link to hosted site](https://nilesoneil.github.io/project_1/)
+[Link to gh-pages site](https://nilesoneil.github.io/project_1/)
 
 ## Technologies Used
 
