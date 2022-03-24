@@ -1,4 +1,4 @@
-# _Portfolio_
+# _Portfolio/Project_1_
 
 #### By _**Niles O'Neil**_
 
@@ -10,7 +10,6 @@
 
 * _HTML_
 * _CSS_
-* _Bootstrap_
 
 ## Description
 
