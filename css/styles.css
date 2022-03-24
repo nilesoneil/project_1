@@ -1,25 +1,30 @@
 body {
-  background: linear-gradient(grey, rgba(1, 85, 1, 0.904))
+  background: linear-gradient(rgba(2, 66, 2, 0.986), grey)
 }
 
-.niles {
-
-
+.design {
+  border: 2px solid black;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+.underline {
+  text-decoration: underline;
+  text-align: center;
 }
 .ace {
   margin: auto;
   width: 50%;
   height: auto;
   border: 2px solid black;
-  padding: 4px;
+  padding: 1px;
   box-sizing: border-box;
   float: left;
 }
 
 .headers {
   color: #FFF;
-background-color: #232323;
-text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18
-
-
+  text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
 }
