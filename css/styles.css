@@ -1,0 +1,8 @@
+#ace {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  box-sizing: border-box;
+  padding: 1rem;
+  display: block;
+}
