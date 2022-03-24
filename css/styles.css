@@ -1,18 +1,25 @@
 body {
-  background: linear-gradient(grey, rgba(12, 73, 12, 0))
-}
-.ace {
-  width: 50%;
-  height: auto;
+  background: linear-gradient(grey, rgba(1, 85, 1, 0.904))
 }
 
-.flash {
-  color: blueviolet;
+.niles {
+
+
+}
+.ace {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
+  float: left;
 }
 
 .headers {
   color: #FFF;
 background-color: #232323;
 text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18
+
 
 }
